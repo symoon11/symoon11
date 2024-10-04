@@ -2,8 +2,6 @@
 
 I'm currently working on deep reinforcement learning.
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/symoon11/langs)](https://githubtrends.io)
-
 <!--
 **symoon11/symoon11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
